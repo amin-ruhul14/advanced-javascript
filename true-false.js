@@ -15,3 +15,18 @@ if (name) {
 else {
     console.log("condition is false");
 }
+
+// false
+// false value
+// 0
+// ""
+// undefined
+// null
+// NaN means Not a Number
+
+// True 
+// '0'
+// ' '
+// []
+// {}
+
