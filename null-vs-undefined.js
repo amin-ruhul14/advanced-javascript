@@ -1,0 +1,20 @@
+let pakhi;
+
+function add(num1, num2) {
+    console.log(num1 + num2);
+    return num2;
+}
+
+function add(num1, num2) {
+    console.log(num1, num2);
+}
+
+
+const Lover = { name: "Denvar", phone: 45367 };
+console.log(Lover.gf);
+
+let fun = undefined;
+console.log(fun);
+
+let ages = [2, 5, 9];
+console.log(ages[11]);
